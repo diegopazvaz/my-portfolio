@@ -1,9 +1,9 @@
-# my-portfolio
+# Description
 Hello! My name is Diego Paz, I'm a junior data scientist and it is my pleasure to present my Data Science Portfolio.
 The objective of this portfolio is to show my projects and skills in data analysis and visualization. Along the creation of this projects I used python and some of its Data Science libraries, such as: Pandas, Numpy, Matplotlib and Seaborn.
 I thank you in advance for your time reviewing it. Greetings!
 
-## autor
+## Autor
 Diego Paz
 LinkedIn: www.linkedin.com/in/diegopazvaz
 
