@@ -4,8 +4,7 @@ The objective of this portfolio is to show my projects and skills in data analys
 I thank you in advance for your time reviewing it. Greetings!
 
 ## Autor
-Diego Paz.
-* [LinkedIn] (www.linkedin.com/in/diegopazvaz)
+Diego Paz. LinkedIn: www.linkedin.com/in/diegopazvaz
 
 ## Hiring
 I am currently looking for a professional opportunity as a Data Scientist Jr.
