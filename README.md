@@ -5,7 +5,7 @@ I thank you in advance for your time reviewing it. Greetings!
 
 ## Autor
 Diego Paz.
-LinkedIn: www.linkedin.com/in/diegopazvaz
+* [LinkedIn] (www.linkedin.com/in/diegopazvaz)
 
 ## Hiring
 I am currently looking for a professional opportunity as a Data Scientist Jr.
